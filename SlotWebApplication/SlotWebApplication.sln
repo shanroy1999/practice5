@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotWebApplication", "SlotWebApplication\SlotWebApplication.csproj", "{14D09C0E-D0D2-4F41-8D1B-8C350769B95F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotApi", "SlotApi\SlotApi.csproj", "{521F3356-5778-4998-9F5A-79F29E52CB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D09C0E-D0D2-4F41-8D1B-8C350769B95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D09C0E-D0D2-4F41-8D1B-8C350769B95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D09C0E-D0D2-4F41-8D1B-8C350769B95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D09C0E-D0D2-4F41-8D1B-8C350769B95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521F3356-5778-4998-9F5A-79F29E52CB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521F3356-5778-4998-9F5A-79F29E52CB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521F3356-5778-4998-9F5A-79F29E52CB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521F3356-5778-4998-9F5A-79F29E52CB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72AFD6E7-6A0B-4EE3-A681-B1E8A0443AC0}
+	EndGlobalSection
+EndGlobal
